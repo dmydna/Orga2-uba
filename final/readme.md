@@ -10,3 +10,15 @@ Los slides de las clases deben asumirse como una guía de estudio. Para ampliar 
 Modalidad: Coloquio / Exposición oral en pizarrón, hasta un máximo de 10 estudiantes. De otro modo el final es un examen escrito, duración 90 minutos.
 
 
+
+### Enlaces
+
+- Material para Finales: [enlace cubawiki](https://cubawiki.com.ar/index.php/Organizaci%C3%B3n_del_Computador_II#Material_para_Finales) <br>
+- Resumenes: [enlace cubawiki](https://cubawiki.com.ar/index.php/Organizaci%C3%B3n_del_Computador_II#Res%C3%BAmenes) <br>
+- Finales: [enlace cubawiki](https://cubawiki.com.ar/index.php/Organizaci%C3%B3n_del_Computador_II#Finales) <br>
+- Otros finales: [enlace local](/final/examenes) <br>
+- Papers para Final: [enlace local](/final/Papers)
+
+
+
+
