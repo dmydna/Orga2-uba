@@ -26,9 +26,13 @@ A5. Indicar cuál de las siguientes afirmaciones es la correcta, en referencia a
 Justificar su respuesta.
 
  
-B1. Las memorias DRAM requieren un circuito de refresco. Explicar las razones de esta afirmación y explicar cómo funciona un amplificador de detección.
-B2. ¿Por qué no es posible hacer que todas las memorias cache de un procesador sean full asociativas? Justificar.
-B3. Una estrategia utilizada en la estructura de caches se denomina "Split Cache". Explicar qué significa y qué ventajas tiene sobre una cache unificada. ¿Qué relación tienen estas ideas sobre una organización Harvard vs. Von Neumann?
-B4. La señal Read for Ownership es generada en un sistema cache SMP. Explicar qué la genera, en qué contexto, y dar un ejemplo de un caso práctico donde se utilice esta señal.
-B5. En una cache que usa protocolo `MESI` se hace una escritura. Indicar el estado en el que queda la linea, partiendo desde cada uno de los estados de MESI. Justificar cada transición.
+B1. Las memorias DRAM requieren un circuito de refresco. Explicar las razones de esta afirmación y explicar cómo funciona un amplificador de detección. <br> 
+
+B2. ¿Por qué no es posible hacer que todas las memorias cache de un procesador sean full asociativas? Justificar. 
+
+B3. Una estrategia utilizada en la estructura de caches se denomina "Split Cache". Explicar qué significa y qué ventajas tiene sobre una cache unificada. ¿Qué relación tienen estas ideas sobre una organización Harvard vs. Von Neumann? 
+
+B4. La señal Read for Ownership es generada en un sistema cache SMP. Explicar qué la genera, en qué contexto, y dar un ejemplo de un caso práctico donde se utilice esta señal. 
+
+B5. En una cache que usa protocolo `MESI` se hace una escritura. Indicar el estado en el que queda la linea, partiendo desde cada uno de los estados de MESI. Justificar cada transición. 
 
